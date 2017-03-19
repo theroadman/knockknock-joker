@@ -2,4 +2,5 @@ Hello World!
 Knock. Knock.
 Who's there? 
 GIT 
-GIT who? 
+GIT who?
+Git on with the asignment!  
